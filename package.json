@@ -1,0 +1,20 @@
+{
+	"name": "npm-davidschoi",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "David Choi <me@davidschoi.com>",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/greatgumz/npm-davidschoi.git"
+	},
+	"bugs": {
+		"url": "https://github.com/greatgumz/npm-davidschoi/issues"
+	},
+	"homepage": "https://github.com/greatgumz/npm-davidschoi#readme"
+}
