@@ -10,8 +10,12 @@ inspired by [kentcdodds](https://kentcdodds.com/)
 ## Usage
 
 ```javascript
-var davidschoi = require('davidschoi');
-console.log(davidschoi.name.first); // 'Kent'
+const { name } = require('davidschoi');
+const { first, middle, last } = name;
+
+console.log(first); // 'david'
+console.log(middle.charAt(0)); // 's'
+console.log(last); // 'choi'
 ```
 
 ## License
