@@ -9,15 +9,15 @@ module.exports = {
 	website: 'https://www.davidschoi.com/',
 	twitter: 'https://twitter.com/thegreatgumz',
 	github: 'https://github.com/greatgumz',
-	linkedin: 'https://www.linkedin.com/in/greatgumz/',
+	linkedin: 'https://www.linkedin.com/in/davidgumzchoi/',
 	stackoverflow: 'https://stackoverflow.com/users/3713756/gumz',
 	facebook: 'https://www.facebook.com/greatgumz',
 	experience: [
 		{
 			employer: 'Lyft',
-			title: 'Senior Front End Engineer',
+			title: 'Senior Software Engineer',
 			start: '10/2021',
-			end: 'present',
+			end: '04/2023',
 		},
 		{
 			employer: 'Carta',
