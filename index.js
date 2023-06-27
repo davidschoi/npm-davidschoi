@@ -9,9 +9,7 @@ module.exports = {
 	website: 'https://www.davidschoi.com/',
 	twitter: 'https://twitter.com/thegreatgumz',
 	github: 'https://github.com/greatgumz',
-	linkedin: 'https://www.linkedin.com/in/davidgumzchoi/',
-	stackoverflow: 'https://stackoverflow.com/users/3713756/gumz',
-	facebook: 'https://www.facebook.com/greatgumz',
+	linkedin: 'https://www.linkedin.com/in/greatgumz/',
 	experience: [
 		{
 			employer: 'Lyft',
@@ -28,8 +26,8 @@ module.exports = {
 		{
 			employer: 'Self-employed',
 			title: 'Web Development Consultant',
-			start: '10/2016',
-			end: '07/2021',
+			start: '09/2016',
+			end: 'present',
 		},
 		{
 			employer: 'Twitch',
@@ -42,12 +40,6 @@ module.exports = {
 			title: 'Developer',
 			start: '01/2017',
 			end: '02/2018',
-		},
-		{
-			employer: 'CPQ Solutions',
-			title: 'Senior Implementation Consultant',
-			start: '09/2016',
-			end: '04/2017',
 		},
 		{
 			employer: 'Switchfly',
